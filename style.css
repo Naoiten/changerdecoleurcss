@@ -1,8 +1,11 @@
-h1
-{
-  font-weight: bold;
-}
-rosebud
-{
+span{
   font-style: italic;
+}
+span1
+{
+  color: red
+}
+span2
+{
+  color: green
 }
